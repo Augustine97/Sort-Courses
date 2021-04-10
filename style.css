@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(66, 66, 66);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#btnSearch,
+#btnClear {
+  display: inline-block;
+  vertical-align: top;
+}
